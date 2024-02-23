@@ -1,4 +1,5 @@
 '''Programa que lê algo pelo teclado e mostra o seu tipo primitivo e informações sobre ele'''
+
 algo = input('Digite algo: ')
 print('O tipo primitivo desse valor é ',type(algo))
 print('So tem espaços? ', algo.isspace())
