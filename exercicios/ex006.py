@@ -1,7 +1,8 @@
+'''Program that reads a number and shows its double, triple and square root '''
 '''Programa que le um numero e mostra o seu dobro, triplo e raiz quadrada. '''
 
-numero = int(input('Digite um numero: '))
-dobro = numero * 2
-triplo = numero * 3
-raiz = numero ** (1/2)
-print(f'O numero digitado foi {numero}, seu dobro é {dobro}, seu triplo é {triplo} e sua raiz quadrada é {raiz}')
+num = int(input('Enter the number: '))
+double = num * 2
+triple = num * 3
+square = num ** (1/2)
+print(f'The number entered was {num}, your double is {double}, your triple is {triple} and your square root is {square}')
