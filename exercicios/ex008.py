@@ -1,7 +1,8 @@
-'''Program that reads a value in meters and displays it converted into centimeters and millimeters'''
+'''Program that reads a value in meters and displays it converted into centimeters and millimeter'''
 '''Programa que le um valor em metros e o exibe convertido em centimetros e milimetros'''
 
-measure = float(input('Enter the distance in meters: '))
-cm = measure * 100
-mm = measure * 1000
-print(f'The measure of {measure}m  matches to {cm}cm and {mm}mm')
+meter = float(input('Enter the distance in meters: '))
+centimeters = meter * 100
+millimeters = meter * 1000
+
+print(f'The distance in meters of {meter}m matches to {centimeters}cm or {millimeters}mm')

@@ -4,5 +4,6 @@
 num = int(input('Enter the number: '))
 double = num * 2
 triple = num * 3
-square = num ** (1/2)
-print(f'The number entered was {num}, your double is {double}, your triple is {triple} and your square root is {square}')
+square_root = num ** (1/2)
+
+print(f'The number entered was {num}, your double is {double}, your triple is {triple} and your square root is {square_root}')
