@@ -1,4 +1,4 @@
-'''Programm that convert Real into Dollar'''
+'''Program that convert Real into Dollar'''
 '''Programa que converte Real em Dolar'''
 
 real = float(input('Enter the money into Real: '))

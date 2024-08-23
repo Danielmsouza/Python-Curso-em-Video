@@ -1,4 +1,4 @@
-'''Programm that reads the width and height of a wall and shows the area and amount of paint needed to paint the wall'''
+'''Program that reads the width and height of a wall and shows the area and amount of paint needed to paint the wall'''
 '''Programa que lê a largura e a altura de uma parede e mostra a area e a quantidade de tinta necessaria para pintar a parede'''
 
 width = float(input('Enter the width: '))

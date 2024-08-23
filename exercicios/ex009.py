@@ -1,4 +1,4 @@
-'''Programm that reads a number and shows the multiplication table '''
+'''Program that reads a number and shows the multiplication table '''
 '''Programa que le um numero inteiro e mostra a tabuada'''
 
 number = int(input('Enter the number: '))
