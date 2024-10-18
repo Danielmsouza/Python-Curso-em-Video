@@ -23,4 +23,4 @@ for person in range(1, 5):
 average = sum_age / 4
 print(f'The average age is {average} years')
 print(f'The oldest man have {oldest_man} years and the name is {name_old}')
-print(f'There are {women} women over 20 years old')
+print(f'There are {women} women under 20 years old')
